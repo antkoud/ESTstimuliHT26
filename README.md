@@ -1,1 +1,1 @@
-These vidoes are stimuli in my study (master thesis). Videos are CC BY 3.0 (or 4.0) license by the Blender Foundation (cloud.blender.org/spring; bigbuckbunny.org; studio.blender.org/projects/caminandes-2/).
+These vidoes are stimuli in my study (master thesis). 
